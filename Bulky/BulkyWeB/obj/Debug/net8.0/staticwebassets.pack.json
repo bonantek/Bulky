@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/obj/Debug/net8.0/scopedcss/projectbundle/BulkyWeB.bundle.scp.css",
+      "PackagePath": "staticwebassets/BulkyWeB.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/Images/product/1862e20e-7d43-4824-beb0-5aba49ad8e6a.jpg",
+      "PackagePath": "staticwebassets/Images/product/1862e20e-7d43-4824-beb0-5aba49ad8e6a.jpg"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/Images/product/2cc67c49-47c9-403b-b116-1d89c2e6cd4f.jpg",
+      "PackagePath": "staticwebassets/Images/product/2cc67c49-47c9-403b-b116-1d89c2e6cd4f.jpg"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/Images/product/3f74b61b-f37f-4c0a-807b-518b8f416dcd.jpg",
+      "PackagePath": "staticwebassets/Images/product/3f74b61b-f37f-4c0a-807b-518b8f416dcd.jpg"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/Images/product/44a0abd6-6cfb-4165-ac7b-36f85dfbde3b.jpg",
+      "PackagePath": "staticwebassets/Images/product/44a0abd6-6cfb-4165-ac7b-36f85dfbde3b.jpg"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/Images/product/5765d102-332e-450b-8175-c4a1d39bed9a.jpg",
+      "PackagePath": "staticwebassets/Images/product/5765d102-332e-450b-8175-c4a1d39bed9a.jpg"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/Images/product/830b5b1f-0f47-415c-b36a-428cc5ce2de9.jpg",
+      "PackagePath": "staticwebassets/Images/product/830b5b1f-0f47-415c-b36a-428cc5ce2de9.jpg"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/Images/product/a868d6de-35f6-4439-b138-8ae48657f121.jpg",
+      "PackagePath": "staticwebassets/Images/product/a868d6de-35f6-4439-b138-8ae48657f121.jpg"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/Images/product/c9f8465f-aa5d-467f-8f54-ba21d6b335cb.jpg",
+      "PackagePath": "staticwebassets/Images/product/c9f8465f-aa5d-467f-8f54-ba21d6b335cb.jpg"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/antoniprochownik/Desktop/programming/projects/c#/bulky/Bulky/BulkyWeB/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BulkyWeB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BulkyWeB.props",
+      "PackagePath": "build\\BulkyWeB.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BulkyWeB.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWeB.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BulkyWeB.props",
+      "PackagePath": "buildTransitive\\BulkyWeB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BulkyWeBRazor_Temp.props" />
+</Project>
